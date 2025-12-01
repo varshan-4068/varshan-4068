@@ -11,6 +11,8 @@
 - Interested in offensive security.
 - If an idea just pops into my head, chances are i will build and ship it.
 
+---
+
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=varshan-4068&theme=github_dark)  
 
 ![GitHub Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=varshan-4068&theme=github_dark)
