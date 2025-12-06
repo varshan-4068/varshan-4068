@@ -14,7 +14,7 @@
 ## Leetcode Stats:
 
 <h3 align="center">
-     <img src="https://leetcard.jacoblin.cool/sirivarshan_2007?ext=activity&theme=dark" 
+     <img src="https://leetcard.jacoblin.cool/sirivarshan_2007?ext=activity&radius=10&theme=dark" 
           alt="leetcode stats" width="380"/>
 </h3>
 
