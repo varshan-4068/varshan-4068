@@ -11,15 +11,19 @@
 - Interested in offensive security.
 - If an idea just pops into my head, chances are i will build and ship it.
 
-## Stats:
+## Leetcode Stats:
 
-<img src="https://leetcard.jacoblin.cool/sirivarshan_2007?ext=contest&theme=dark" 
-     alt="leetcode stats" width="380"/>
+<h3 align="center">
+     <img src="https://leetcard.jacoblin.cool/sirivarshan_2007?ext=activity&theme=dark" 
+          alt="leetcode stats" width="380"/>
+</h3>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=varshan-4068&theme=tokyonight" 
-     alt="leetcode stats" width="290"/>
+## Github Stats:
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=varshan-4068&theme=github_dark" 
+     alt="leetcode stats" width="300"/>
      
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=varshan-4068&theme=tokyonight" 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=varshan-4068&theme=github_dark" 
      alt="leetcode stats" width="600"/>
 
 <h3 align="center">
