@@ -25,7 +25,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=varshan-4068&theme=dark&show_icons=true&hide=issues" alt="GitHub Stats" width="400"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshan-4068&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="265"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varshan-4068&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" width="265"/>
 </p>
 
 ## IDE & Tools
