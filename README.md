@@ -23,7 +23,7 @@
 ## Github Stats:
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=varshan-4068&theme=dark" width=500/>
+  <img src="https://streak-stats.demolab.com/?user=varshan-4068&theme=dark" width=400/>
 </p>
 
 ## IDE & Tools
