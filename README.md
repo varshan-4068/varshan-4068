@@ -64,29 +64,14 @@ web_app_pentesting:
   <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=4AF0C4&labelColor=0d1117" />
 </p>
 
-## `$ cat github_stats.log`
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=varshan-4068&theme=dark&hide_border=true&background=0D1117&stroke=4AF0C4&ring=4AF0C4&fire=4AF0C4&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=4AF0C4&sideLabels=4AF0C4&dates=555E6E" width="430"/>
-</div>
-
 ## `$ ping -c 1 contact`
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/sirivarshan-k-2288a0388/">
-    <img src="https://img.shields.io/badge/-%20LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=4AF0C4&labelColor=0d1117&color=0d1117" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/varshan-4068">
-    <img src="https://img.shields.io/badge/-%20GitHub-0d1117?style=for-the-badge&logo=github&logoColor=4AF0C4&labelColor=0d1117&color=0d1117" />
-  </a>
-  &nbsp;&nbsp;
   <a href="mailto:j42830963@gmail.com">
-    <img src="https://img.shields.io/badge/-%20Email-0d1117?style=for-the-badge&logo=gmail&logoColor=4AF0C4&labelColor=0d1117&color=0d1117" />
+    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=4AF0C4&labelColor=0d1117&color=0d1117" style="margin-right:8px;" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://tryhackme.com/p/sirivarshank">
-    <img src="https://img.shields.io/badge/-%20TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=4AF0C4&labelColor=0d1117&color=0d1117" />
+  <a href="https://www.linkedin.com/in/sirivarshan-k-2288a0388/">
+    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=4AF0C4&labelColor=0d1117&color=0d1117" />
   </a>
 </div>
 
