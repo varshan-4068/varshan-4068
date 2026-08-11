@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&weight=700&size=20&pause=1200&color=4AF0C4&center=true&width=560&lines=Sirivarshan+K+%2F%2F+Security+Researcher;Offensive+Security+%7C+Web+Application+Pentester" alt="Typing SVG" />
 </a>
 
-<br>
+<br/>
 
 ![](https://img.shields.io/badge/-Web%20App%20Pentesting-0a0e1a?style=flat-square&logo=owasp&logoColor=4AF0C4&labelColor=0a0e1a&color=0a0e1a)
 
@@ -17,6 +17,20 @@ business logic, and API trust boundaries — the places where real vulnerabiliti
 
 I don't stop at the **CVE**. I trace the full impact, build the **PoCs**, and
 document what it takes to fix it right.
+
+## `$ cat tryhackme.conf`
+
+<div align="left">
+  <a href="https://tryhackme.com/p/sirivarshank">
+    <img src="https://img.shields.io/badge/TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=4AF0C4&labelColor=0d1117" />
+  </a>
+</div>
+
+```yaml
+🏆 Top 1% Rank
+🗓️ 180+ Days Streak
+🎖️ 230+ Rooms Completed
+```
 
 ## `$ cat interests.conf`
 
@@ -52,12 +66,14 @@ web_app_pentesting:
   <img src="https://img.shields.io/badge/ffuf-0d1117?style=for-the-badge&logo=gnu-bash&logoColor=4AF0C4&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/John_the_Ripper-0d1117?style=for-the-badge&logo=keycdn&logoColor=4AF0C4&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Hashcat-0d1117?style=for-the-badge&logo=hashnode&logoColor=4AF0C4&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Metasploit-0d1117?style=for-the-badge&logo=metasploit&logoColor=4AF0C4&labelColor=0d1117&color=0d1117" />   
 </p>
 
 # Environment
 
 <p align="left">
   <img src="https://img.shields.io/badge/Arch%20Linux-0d1117?style=for-the-badge&logo=arch-linux&logoColor=4AF0C4&labelColor=0d1117" />
+  <img src="https://img.shields.io/badge/Windows%2011-0078D4?style=for-the-badge&logo=windows&logoColor=white&labelColor=0d1117&color=0d1117" />
   <img src="https://img.shields.io/badge/Neovim-0d1117?style=for-the-badge&logo=neovim&logoColor=4AF0C4&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/Vim-0d1117?style=for-the-badge&logo=vim&logoColor=4AF0C4&labelColor=0d1117" />
   <img src="https://img.shields.io/badge/VSCode-0d1117?style=for-the-badge&logo=visual-studio-code&logoColor=4AF0C4&labelColor=0d1117" />
@@ -66,20 +82,9 @@ web_app_pentesting:
 
 ## `$ ping -c 1 contact`
 
-<div align="left">
-  <a href="mailto:j42830963@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=4AF0C4&labelColor=0d1117&color=0d1117" style="margin-right:8px;" />
-  </a>
-  <a href="https://www.linkedin.com/in/sirivarshan-k-2288a0388/">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=4AF0C4&labelColor=0d1117&color=0d1117" />
-  </a>
-</div>
+<div align="left"><a href="mailto:j42830963@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=4AF0C4&labelColor=0d1117&color=0d1117" /></a><a href="https://www.linkedin.com/in/sirivarshan-k-2288a0388/"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=4AF0C4&labelColor=0d1117&color=0d1117" /></a></div>   
 
 <div align="center">
-
   <br>
-  
-  ![](https://komarev.com/ghpvc/?username=varshan-4068&style=for-the-badge&color=000000&label=PROFILE+VIEWS&labelColor=c0c0c0)
-  <br><br>
   <sub><code>// The best defense is built on a complete understanding of the offense.</code></sub>
 </div>
